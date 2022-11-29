@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(9, 193, 240);
+    color: rgb(5, 0, 0);
+
+}
+
+hr {
+    background-color: rgb(9, 193, 240);
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: grey;
+}
