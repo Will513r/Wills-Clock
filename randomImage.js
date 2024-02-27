@@ -7,7 +7,7 @@ function displayImage(data) {
   imageElement.alt = data.alt_description || "Random Image";
 
   const imageContainer = document.getElementById("random-image");
-  imageContainer.innerHTML = ""; 
+  imageContainer.innerHTML = "";
   imageContainer.appendChild(imageElement);
 }
 
